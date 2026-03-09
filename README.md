@@ -23,6 +23,4 @@ Here are some of my notable projects featured on this portfolio:
 3. **Project 3** – Brief description of what it does and technologies used.
 
 
-https://muhammad-fahad-javed.github.io/codecraft/
 
-## 📂 Repository Structure
