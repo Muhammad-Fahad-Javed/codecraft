@@ -15,12 +15,4 @@ Check out the live website here:
 
 ---
 
-## 🛠 Projects
-Here are some of my notable projects featured on this portfolio:
-
-1. **Project 1** – Brief description of what it does and technologies used.  
-2. **Project 2** – Brief description of what it does and technologies used.  
-3. **Project 3** – Brief description of what it does and technologies used.
-
-
 
